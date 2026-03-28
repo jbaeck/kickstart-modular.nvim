@@ -235,6 +235,10 @@ return {
             },
           },
         },
+
+        -- yamlls = {
+        -- filetypes = { 'yaml', 'yaml.docker-compose' },
+        -- },
       }
 
       -- Ensure the servers and tools above are installed
